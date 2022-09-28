@@ -29,7 +29,7 @@ console.log(blank);
 
 //BONUS
 //1
-const quarter = 0.25, dime = 0.10, nickel = 0.05, penny = 0.01;
+const quarter = 0.25, dime = 0.1, nickel = 0.05, penny = 0.01;
 
 //const [quarter, dime, nickel, penny]= [0.25, 0.10 0.05, 0.01];
 
